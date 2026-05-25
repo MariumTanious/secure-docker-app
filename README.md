@@ -136,3 +136,6 @@ secure-docker-app/
 ├── package.json          # Node.js dependencies
 └── server.js             # Express application
 ```
+# Secure Dockerized Web Application on AWS
+
+<img width="800" height="730" alt="image" src="https://github.com/user-attachments/assets/d05e9b0b-1795-4ef7-8fd2-0c192861f373" />
